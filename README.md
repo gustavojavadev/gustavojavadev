@@ -1,5 +1,5 @@
 # 💬 About Me:
-Welcome to my GIT profile! <br>My name is Gustavo and i'm 20 years old. <br>I am in love for technology, and here, i'm used to put some projects (of university or just studying).
+Welcome to my GIT profile! <br>My name is Gustavo and i'm 20 years old. <br>I'm in love for technology, and here, i'm used to put some projects (of university or just studying).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavojava) 
